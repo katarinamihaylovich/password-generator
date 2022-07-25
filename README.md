@@ -8,9 +8,9 @@ The purpose of this project was to modify a website that would provide a user wi
 
 ## Technology Used:
 
-1.HTML
-2.CSS
-3.JAVASCRIPT
+1. HTML
+2. CSS
+3. JAVASCRIPT
 
 ## Final Screenshot
 (Contains a final, random, long password.)
